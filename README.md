@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706213112
 
-Nama: 
+Nama: Muhammad Athallah Naufal
